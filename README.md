@@ -177,12 +177,6 @@ Example Markdown to embed:
 
 ---
 
-## 🧪 Extensions (optional)
-- Cluster customers using K-Means on income and spending to find segments.
-- Correlation analysis between age, income, and spending score.
-- Build a simple recommendation or targeting rule based on segment profiles.
-
----
 
 ## 📌 Requirements
 ```bash
