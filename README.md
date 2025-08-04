@@ -163,17 +163,7 @@ age_group_stats = (
 ---
 
 ## 📷 Visualizations
-Include the generated charts here (add image files to the repo and reference them):
-- `mean_income_by_gender.png`
-- `mean_spending_by_gender.png`
-- `top_bottom_income.png`
-- `spending_score_extremes_by_gender.png`
-- `age_group_spending_scores.png`
-
-Example Markdown to embed:
-```markdown
-![Mean Income by Gender](images/mean_income_by_gender.png)
-```
+Prepared visualizations to compare mean income, spending scores, and category-based patterns using bar charts.
 
 ---
 
